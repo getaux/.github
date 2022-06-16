@@ -4,3 +4,4 @@
 
 <h1 align="center">AuctionX Docker images</h1>
 
+AuctionX proposes an escrow wallet approach to handle auctions on Immutable X.
